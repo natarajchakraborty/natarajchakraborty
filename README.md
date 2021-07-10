@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @natarajchakraborty
+- 👋 Hi, I’m @natarajchakraborty, a FrontEnd Dev
 - 👀 I’m interested in Coding, React, FrontEnd, Travelling, Foody, occasional cooking.
-- 🌱 I’m currently learning DS & Algo, Advanced React, Advanced React Native, Redux Saga etc.
+- 🌱 I’m currently learning DS & Algo, Advanced React, Advanced React Native, Redux Saga, React Query etc.
 - 📫 How to reach me natarajchakraborty@gmail.com
 <!---
 natarajchakraborty/natarajchakraborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
